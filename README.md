@@ -20,7 +20,7 @@ Build a multi-page site that:
 
 The screenshot below shows the desktop layout with the header navigation and the large EXPLORE control.
 
-![Project screenshot](\sample\preview.png)
+![Project screenshot](src/sample/preview.png)
 
 ## Links
 
