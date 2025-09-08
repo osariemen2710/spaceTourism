@@ -1,6 +1,6 @@
 ## Frontend Mentor - Space tourism website
 
-![Design preview for the Space tourism website coding challenge](\sample\preview.png)
+![Design preview for the Space tourism website coding challenge](src/sample/preview.png)
 
 Short project README for the Space Tourism multi-page site built as a React + Vite app using Tailwind CSS.
 
